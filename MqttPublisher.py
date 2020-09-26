@@ -1,7 +1,6 @@
 #!/usr/bin/python
 import paho.mqtt.client as paho
 import time
-import datetime
 from urllib.parse import urlparse
 
 # Mqtt client definitio
